@@ -1,0 +1,6 @@
+﻿  Main.cpp
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\CaesarCipher\CaesarCipher\Main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\CaesarCipher\CaesarCipher\Main.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\CaesarCipher\CaesarCipher\Main.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\CaesarCipher\CaesarCipher\Main.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+  CaesarCipher.vcxproj -> \\GMRDC1\Folder Redirection\Edan.Saedi\Desktop\CaesarCipher\Debug\CaesarCipher.exe
